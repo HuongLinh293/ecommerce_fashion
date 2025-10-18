@@ -1,0 +1,574 @@
+{
+    "products": [
+        {
+            "id": 2,
+            "name": "Black Tee",
+            "price": 950000,
+            "originalPrice": 950000,
+            "image": "https://images.unsplash.com/photo-1758613656376-59e3b5cef922?w=1200",
+            "category": "men",
+            "discount": 0,
+            "type": "T-Shirt",
+            "colors": "Black, Navy, Charcoal",
+            "sizes": "S, M, L, XL",
+            "description": "Sleek black T-shirt with modern cut. Perfect for any occasion.",
+            "material": "Organic Cotton Blend",
+            "gallery": [
+                "https://images.unsplash.com/photo-1758613656376-59e3b5cef922?w=500",
+                "https://images.unsplash.com/photo-1634849112476-88cb7e60392b?w=500",
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500",
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Oversized Comfort Tee",
+            "price": 1200000,
+            "originalPrice": 1500000,
+            "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1200",
+            "category": "men",
+            "discount": 20,
+            "type": "T-Shirt",
+            "colors": ["Beige", "Olive", "Brown"],
+            "sizes": ["M", "L", "XL", "XXL"],
+            "description": "Relaxed oversized fit T-shirt. Contemporary street style.",
+            "material": "Heavy Weight Cotton",
+            "gallery": [
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500",
+                "https://images.unsplash.com/photo-1758613656376-59e3b5cef922?w=500",
+                "https://images.unsplash.com/photo-1634849112476-88cb7e60392b?w=500",
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Tailored Dress Pants",
+            "price": 2950000,
+            "originalPrice": 2950000,
+            "image": "https://images.unsplash.com/photo-1541840031508-326b77c9a17e?w=1200",
+            "category": "men",
+            "discount": 0,
+            "type": "Pants",
+            "colors": ["Navy", "Charcoal", "Black"],
+            "sizes": ["29", "30", "31", "32", "33", "34"],
+            "description": "Classic tailored pants with perfect drape. Office to evening.",
+            "material": "Wool Blend Fabric",
+            "gallery": [
+                "https://images.unsplash.com/photo-1541840031508-326b77c9a17e?w=500",
+                "https://images.unsplash.com/photo-1758534063951-1c78600f8129?w=500",
+                "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=500",
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Slim Fit Chinos",
+            "price": 1890000,
+            "originalPrice": 1890000,
+            "image": "https://images.unsplash.com/photo-1758534063951-1c78600f8129?w=1200",
+            "category": "men",
+            "discount": 0,
+            "type": "Pants",
+            "colors": ["Khaki", "Olive", "Navy"],
+            "sizes": ["29", "30", "31", "32", "33", "34"],
+            "description": "Versatile slim fit chinos. Smart casual essential.",
+            "material": "Cotton Twill",
+            "gallery": [
+                "https://images.unsplash.com/photo-1758534063951-1c78600f8129?w=500",
+                "https://images.unsplash.com/photo-1541840031508-326b77c9a17e?w=500",
+                "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=500",
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Relaxed Cargo Pants",
+            "price": 2400000,
+            "originalPrice": 3000000,
+            "image": "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=1200",
+            "category": "men",
+            "discount": 20,
+            "type": "Pants",
+            "colors": ["Black", "Olive", "Khaki"],
+            "sizes": ["30", "31", "32", "33", "34"],
+            "description": "Modern cargo pants with functional pockets. Urban utility.",
+            "material": "Durable Cotton Canvas",
+            "gallery": [
+                "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=500",
+                "https://images.unsplash.com/photo-1541840031508-326b77c9a17e?w=500",
+                "https://images.unsplash.com/photo-1758534063951-1c78600f8129?w=500",
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Leather Biker Jacket",
+            "price": 8900000,
+            "originalPrice": 8900000,
+            "image": "https://images.unsplash.com/photo-1713740374957-773d875f5b77?w=1200",
+            "category": "men",
+            "discount": 0,
+            "type": "Coats-Jackets",
+            "colors": ["Black", "Brown"],
+            "sizes": ["S", "M", "L", "XL"],
+            "description": "Premium leather biker jacket. Timeless rebellion.",
+            "material": "Full Grain Leather",
+            "gallery": [
+                "https://images.unsplash.com/photo-1713740374957-773d875f5b77?w=500",
+                "https://images.unsplash.com/photo-1645466478772-99f652533d44?w=500",
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500",
+                "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=500"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Wool Overcoat",
+            "price": 6500000,
+            "originalPrice": 6500000,
+            "image": "https://images.unsplash.com/photo-1645466478772-99f652533d44?w=1200",
+            "category": "men",
+            "discount": 0,
+            "type": "Coats-Jackets",
+            "colors": ["Camel", "Navy", "Grey"],
+            "sizes": ["M", "L", "XL"],
+            "description": "Classic wool overcoat. Sophisticated elegance.",
+            "material": "Premium Wool",
+            "gallery": [
+                "https://images.unsplash.com/photo-1645466478772-99f652533d44?w=500",
+                "https://images.unsplash.com/photo-1713740374957-773d875f5b77?w=500",
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500",
+                "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=500"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Bomber Jacket",
+            "price": 3200000,
+            "originalPrice": 4000000,
+            "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+            "category": "men",
+            "discount": 20,
+            "type": "Coats-Jackets",
+            "colors": ["Olive", "Black", "Navy"],
+            "sizes": ["S", "M", "L", "XL"],
+            "description": "Classic bomber jacket with modern twist. Military heritage.",
+            "material": "Nylon Shell, Polyester Lining",
+            "gallery": [
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500",
+                "https://images.unsplash.com/photo-1713740374957-773d875f5b77?w=500",
+                "https://images.unsplash.com/photo-1645466478772-99f652533d44?w=500",
+                "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=500"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Elegant Midi Dress",
+            "price": 3950000,
+            "originalPrice": 3950000,
+            "image": "https://images.unsplash.com/photo-1678637803638-0bcc1e13ecae?w=1200",
+            "category": "women",
+            "discount": 0,
+            "type": "Dress",
+            "colors": ["Navy", "Burgundy", "Emerald"],
+            "sizes": ["S", "M", "L"],
+            "description": "Timeless midi dress with elegant silhouette. Day to night.",
+            "material": "Silk Blend",
+            "gallery": [
+                "https://images.unsplash.com/photo-1678637803638-0bcc1e13ecae?w=500",
+                "https://images.unsplash.com/photo-1594846951450-7ad385b03a69?w=500",
+                "https://images.unsplash.com/photo-1551803091-e20673f15770?w=500",
+                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Floral Summer Dress",
+            "price": 2890000,
+            "originalPrice": 2890000,
+            "image": "/assets/products/product_68f2537456316.png",
+            "category": "women",
+            "discount": 0,
+            "type": "Dress",
+            "colors": "Floral Blue, Floral Pink",
+            "sizes": "S, M, L",
+            "description": "Light and breezy floral dress. Perfect for summer.",
+            "material": "Cotton Voile",
+            "gallery": "[\"\\/assets\\/products\\/gallery_68f25374569a1.png\",\"\\/assets\\/products\\/gallery_68f2537457217.png\",\"\\/assets\\/products\\/gallery_68f2537457cfd.png\",\"\\/assets\\/products\\/gallery_68f2537458163.png\"]"
+        },
+        {
+            "id": 12,
+            "name": "Evening Gown",
+            "price": 7200000,
+            "originalPrice": 9000000,
+            "image": "/assets/products/product_68f252f4ee179.png",
+            "category": "women",
+            "discount": 20,
+            "type": "Dress",
+            "colors": "Black, Navy, Wine Red",
+            "sizes": "S, M, L",
+            "description": "Luxurious evening gown for special occasions. Red carpet ready.",
+            "material": "Satin Silk",
+            "gallery": "[\"\\/assets\\/products\\/gallery_68f252f4eefe4.png\",\"\\/assets\\/products\\/gallery_68f252f4efbe1.png\",\"\\/assets\\/products\\/gallery_68f252f4f0262.png\",\"\\/assets\\/products\\/gallery_68f252f4f06b7.png\"]"
+        },
+        {
+            "id": 13,
+            "name": "Pleated Midi Skirt",
+            "price": 1890000,
+            "originalPrice": 1890000,
+            "image": "https://images.unsplash.com/photo-1637227314917-3c0f595c3596?w=1200",
+            "category": "women",
+            "discount": 0,
+            "type": "Skirt",
+            "colors": ["Black", "Navy", "Beige"],
+            "sizes": ["S", "M", "L"],
+            "description": "Classic pleated midi skirt. Effortlessly chic.",
+            "material": "Polyester Crepe",
+            "gallery": [
+                "https://images.unsplash.com/photo-1637227314917-3c0f595c3596?w=500",
+                "https://images.unsplash.com/photo-1551803091-e20673f15770?w=500",
+                "https://images.unsplash.com/photo-1594846951450-7ad385b03a69?w=500",
+                "https://images.unsplash.com/photo-1678637803638-0bcc1e13ecae?w=500"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "A-Line Mini Skirt",
+            "price": 1590000,
+            "originalPrice": 1590000,
+            "image": "https://images.unsplash.com/photo-1594846951450-7ad385b03a69?w=1200",
+            "category": "women",
+            "discount": 0,
+            "type": "Skirt",
+            "colors": ["White", "Black", "Pink"],
+            "sizes": ["S", "M", "L"],
+            "description": "Flirty A-line mini skirt. Playful and feminine.",
+            "material": "Cotton Blend",
+            "gallery": [
+                "https://images.unsplash.com/photo-1594846951450-7ad385b03a69?w=500",
+                "https://images.unsplash.com/photo-1637227314917-3c0f595c3596?w=500",
+                "https://images.unsplash.com/photo-1551803091-e20673f15770?w=500",
+                "https://images.unsplash.com/photo-1678637803638-0bcc1e13ecae?w=500"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Leather Pencil Skirt",
+            "price": 2800000,
+            "originalPrice": 3500000,
+            "image": "https://images.unsplash.com/photo-1551803091-e20673f15770?w=1200",
+            "category": "women",
+            "discount": 20,
+            "type": "Skirt",
+            "colors": ["Black", "Brown"],
+            "sizes": ["S", "M", "L"],
+            "description": "Sleek leather pencil skirt. Modern edge.",
+            "material": "Genuine Leather",
+            "gallery": [
+                "https://images.unsplash.com/photo-1551803091-e20673f15770?w=500",
+                "https://images.unsplash.com/photo-1637227314917-3c0f595c3596?w=500",
+                "https://images.unsplash.com/photo-1594846951450-7ad385b03a69?w=500",
+                "https://images.unsplash.com/photo-1678637803638-0bcc1e13ecae?w=500"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Silk Blouse",
+            "price": 2490000,
+            "originalPrice": 2490000,
+            "image": "https://images.unsplash.com/photo-1708533096181-dab486856499?w=1200",
+            "category": "women",
+            "discount": 0,
+            "type": "Top",
+            "colors": ["Ivory", "Black", "Dusty Rose"],
+            "sizes": ["S", "M", "L"],
+            "description": "Luxurious silk blouse with refined details. Office elegance.",
+            "material": "Pure Silk",
+            "gallery": [
+                "https://images.unsplash.com/photo-1708533096181-dab486856499?w=500",
+                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500",
+                "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500",
+                "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Ribbed Knit Top",
+            "price": 1290000,
+            "originalPrice": 1290000,
+            "image": "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=1200",
+            "category": "women",
+            "discount": 0,
+            "type": "Top",
+            "colors": ["Cream", "Black", "Camel"],
+            "sizes": ["S", "M", "L"],
+            "description": "Soft ribbed knit top. Cozy and stylish.",
+            "material": "Merino Wool Blend",
+            "gallery": [
+                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500",
+                "https://images.unsplash.com/photo-1708533096181-dab486856499?w=500",
+                "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500",
+                "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Lace Detail Top",
+            "price": 1840000,
+            "originalPrice": 2300000,
+            "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1200",
+            "category": "women",
+            "discount": 20,
+            "type": "Top",
+            "colors": ["White", "Black", "Nude"],
+            "sizes": ["S", "M", "L"],
+            "description": "Romantic top with delicate lace details. Feminine charm.",
+            "material": "Cotton with Lace Trim",
+            "gallery": [
+                "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500",
+                "https://images.unsplash.com/photo-1708533096181-dab486856499?w=500",
+                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500",
+                "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Trench Coat",
+            "price": 7500000,
+            "originalPrice": 7500000,
+            "image": "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=1200",
+            "category": "women",
+            "discount": 0,
+            "type": "Jacket",
+            "colors": ["Beige", "Black", "Navy"],
+            "sizes": ["S", "M", "L"],
+            "description": "Iconic trench coat. Timeless sophistication.",
+            "material": "Water-resistant Cotton Gabardine",
+            "gallery": [
+                "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500",
+                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500",
+                "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500",
+                "https://images.unsplash.com/photo-1708533096181-dab486856499?w=500"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Blazer Jacket",
+            "price": 4800000,
+            "originalPrice": 4800000,
+            "image": "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=1200",
+            "category": "women",
+            "discount": 0,
+            "type": "Jacket",
+            "colors": ["Black", "Navy", "Grey"],
+            "sizes": ["S", "M", "L"],
+            "description": "Tailored blazer jacket. Power dressing essential.",
+            "material": "Wool Blend",
+            "gallery": [
+                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500",
+                "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500",
+                "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500",
+                "https://images.unsplash.com/photo-1708533096181-dab486856499?w=500"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Puffer Jacket",
+            "price": 3600000,
+            "originalPrice": 4500000,
+            "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1200",
+            "category": "women",
+            "discount": 20,
+            "type": "Jacket",
+            "colors": ["Black", "Cream", "Khaki"],
+            "sizes": ["S", "M", "L"],
+            "description": "Cozy puffer jacket. Urban winter essential.",
+            "material": "Down Fill, Nylon Shell",
+            "gallery": [
+                "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500",
+                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500",
+                "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500",
+                "https://images.unsplash.com/photo-1708533096181-dab486856499?w=500"
+            ]
+        },
+        {
+            "id": 101,
+            "name": "VIVILLAN City Bag - Black",
+            "price": 5000000,
+            "originalPrice": 5000000,
+            "image": "/assets/bag-black.png",
+            "category": "accessories",
+            "discount": 0,
+            "type": "Bag",
+            "colors": ["Black"],
+            "sizes": ["One Size"],
+            "description": "Classic leather city bag with signature hardware. Timeless elegance meets everyday functionality.",
+            "material": "100% Italian Leather, Gold-tone hardware",
+            "gallery": [
+                "/assets/bag-black.png",
+                "https://images.unsplash.com/photo-1559563458-527698bf5295?w=500",
+                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=500"
+            ]
+        },
+        {
+            "id": 102,
+            "name": "VIVILLAN City Bag - Grey",
+            "price": 5000000,
+            "originalPrice": 5000000,
+            "image": "/assets/bag-grey.png",
+            "category": "accessories",
+            "discount": 0,
+            "type": "Bag",
+            "colors": ["Grey"],
+            "sizes": ["One Size"],
+            "description": "Classic leather city bag in grey with distressed finish. Modern sophistication.",
+            "material": "100% Italian Leather, Antique brass hardware",
+            "gallery": [
+                "/assets/bag-grey.png",
+                "https://images.unsplash.com/photo-1559563458-527698bf5295?w=500",
+                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=500"
+            ]
+        },
+        {
+            "id": 103,
+            "name": "Designer Tote Bag",
+            "price": 6500000,
+            "originalPrice": 6500000,
+            "image": "https://images.unsplash.com/photo-1758171692659-024183c2c272?w=1200",
+            "category": "accessories",
+            "discount": 0,
+            "type": "Bag",
+            "colors": ["Tan", "Black", "Navy"],
+            "sizes": ["One Size"],
+            "description": "Spacious designer tote bag. Perfect for work and travel.",
+            "material": "Premium Leather, Canvas lining",
+            "gallery": [
+                "https://images.unsplash.com/photo-1758171692659-024183c2c272?w=500",
+                "https://images.unsplash.com/photo-1559563458-527698bf5295?w=500",
+                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=500"
+            ]
+        },
+        {
+            "id": 104,
+            "name": "Classic Leather Sneakers",
+            "price": 3500000,
+            "originalPrice": 3500000,
+            "image": "https://images.unsplash.com/photo-1758702701300-372126112cb4?w=1200",
+            "category": "accessories",
+            "discount": 0,
+            "type": "Shoes",
+            "colors": ["White", "Black", "Navy"],
+            "sizes": ["36", "37", "38", "39", "40", "41", "42", "43"],
+            "description": "Premium leather sneakers with timeless design. Comfort meets style.",
+            "material": "Premium Leather, Rubber sole",
+            "gallery": [
+                "https://images.unsplash.com/photo-1758702701300-372126112cb4?w=500",
+                "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500",
+                "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=500",
+                "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500"
+            ]
+        },
+        {
+            "id": 105,
+            "name": "Premium Leather Boots",
+            "price": 4500000,
+            "originalPrice": 4500000,
+            "image": "https://images.unsplash.com/photo-1652474590303-b4d72bf9f61a?w=1200",
+            "category": "accessories",
+            "discount": 0,
+            "type": "Shoes",
+            "colors": ["Brown", "Black"],
+            "sizes": ["37", "38", "39", "40", "41", "42", "43"],
+            "description": "Handcrafted leather boots with exceptional durability. Classic design.",
+            "material": "Full-grain Leather, Leather sole",
+            "gallery": [
+                "https://images.unsplash.com/photo-1652474590303-b4d72bf9f61a?w=500",
+                "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=500",
+                "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=500",
+                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500"
+            ]
+        },
+        {
+            "id": 106,
+            "name": "Canvas Sneakers",
+            "price": 1800000,
+            "originalPrice": 2250000,
+            "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=1200",
+            "category": "accessories",
+            "discount": 20,
+            "type": "Shoes",
+            "colors": ["White", "Black", "Grey"],
+            "sizes": ["36", "37", "38", "39", "40", "41", "42"],
+            "description": "Casual canvas sneakers. Everyday comfort.",
+            "material": "Canvas, Rubber sole",
+            "gallery": [
+                "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500",
+                "https://images.unsplash.com/photo-1758702701300-372126112cb4?w=500",
+                "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=500",
+                "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500"
+            ]
+        },
+        {
+            "id": 107,
+            "name": "Classic Stiletto Heels",
+            "price": 3200000,
+            "originalPrice": 3200000,
+            "image": "https://images.unsplash.com/photo-1670607231621-c00fd76d2387?w=1200",
+            "category": "accessories",
+            "discount": 0,
+            "type": "High-Heels",
+            "colors": ["Black", "Nude", "Red"],
+            "sizes": ["35", "36", "37", "38", "39", "40"],
+            "description": "Elegant stiletto heels. Power and femininity.",
+            "material": "Patent Leather, Leather sole",
+            "gallery": [
+                "https://images.unsplash.com/photo-1670607231621-c00fd76d2387?w=500",
+                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500",
+                "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=500",
+                "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=500"
+            ]
+        },
+        {
+            "id": 108,
+            "name": "Block Heel Pumps",
+            "price": 2800000,
+            "originalPrice": 2800000,
+            "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=1200",
+            "category": "accessories",
+            "discount": 0,
+            "type": "High-Heels",
+            "colors": ["Black", "Navy", "Burgundy"],
+            "sizes": ["35", "36", "37", "38", "39", "40"],
+            "description": "Comfortable block heel pumps. All-day elegance.",
+            "material": "Suede, Leather sole",
+            "gallery": [
+                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500",
+                "https://images.unsplash.com/photo-1670607231621-c00fd76d2387?w=500",
+                "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=500",
+                "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=500"
+            ]
+        },
+        {
+            "id": 109,
+            "name": "Strappy Sandal Heels",
+            "price": 2560000,
+            "originalPrice": 3200000,
+            "image": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=1200",
+            "category": "accessories",
+            "discount": 20,
+            "type": "High-Heels",
+            "colors": ["Gold", "Silver", "Black"],
+            "sizes": ["35", "36", "37", "38", "39", "40"],
+            "description": "Glamorous strappy heels. Evening perfection.",
+            "material": "Metallic Leather, Leather sole",
+            "gallery": [
+                "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=500",
+                "https://images.unsplash.com/photo-1670607231621-c00fd76d2387?w=500",
+                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500",
+                "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=500"
+            ]
+        }
+    ]
+}
