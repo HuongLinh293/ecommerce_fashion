@@ -76,6 +76,8 @@ class OrderController extends Controller
                 'shipping_address' => $request->shipping_address,
                 'status'          => 'pending',
                 'total'           => $this->calculateCartTotal($cart),
+                // store decimal total_amount for views and reporting
+                'total_amount'    => $this->calculateCartTotal($cart),
             ]);
 
           
@@ -107,7 +109,8 @@ class OrderController extends Controller
                 'order_id'       => $order->id,
                 'method'         => $request->payment_method,
                 'status'         => 'pending',
-                'amount'         => $order->total ?? 0,
+                // prefer decimal total_amount if available
+                'amount'         => $order->total_amount ?? $order->total ?? 0,
                 'transaction_id' => null,
             ]);
 

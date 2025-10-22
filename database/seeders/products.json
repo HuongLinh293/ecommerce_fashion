@@ -2,572 +2,819 @@
     "products": [
         {
             "id": 2,
-            "name": "Black Tee",
-            "price": 950000,
-            "originalPrice": 950000,
-            "image": "https://images.unsplash.com/photo-1758613656376-59e3b5cef922?w=1200",
+            "name": "BLACK DOUBLE CAMEL",
+            "price": 9500000,
+            "originalPrice": 9499997,
+            "image": "/assets/products/product_68f8769419e3a.jpg",
             "category": "men",
             "discount": 0,
             "type": "T-Shirt",
-            "colors": "Black, Navy, Charcoal",
-            "sizes": "S, M, L, XL",
-            "description": "Sleek black T-shirt with modern cut. Perfect for any occasion.",
-            "material": "Organic Cotton Blend",
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "description": "THIS LS KAFTAN HIP IS HIP LENGTH WITH LONG, WIDE SLEEVES. IT HAS A LARGE HOOD WITH A V NECK AND SEAM RUNNING DOWN THE CENTRE FRONT AND BACK. IT IS A VOLUMINOUS KAFTAN SHAPE, WITH A WIDE SHOULDER FALLING INTO A DROPPED ARMHOLE.\r\n\r\n \r\n\r\nTHIS HEAVYWEIGHT DOUBLE CAMEL QUALITY IS WOVEN FROM FINE BABY CAMEL YARNS AND FINISHED BY WASHING AND TUMBLING. IT HAS A WARM AND SOFT HANDFEEL.\r\n\r\n \r\n\r\nTHE HIGH GRADE CAMEL HAIR USED IN THIS PRODUCT DERIVE FROM BACTRIAN CAMELS, A LONG HAIRED CAMEL NATIVE TO THE CENTRAL ASIAN STEPPES. INSTEAD OF SHEERING, THE HAIR IS COLLECTED BY BRUSHING THE CAMELS WHEN THEY NATURALLY LOOSE THEIR WINTER COAT.",
+            "material": "97% CAMEL HAIR + 3% NEW WOOL",
             "gallery": [
-                "https://images.unsplash.com/photo-1758613656376-59e3b5cef922?w=500",
-                "https://images.unsplash.com/photo-1634849112476-88cb7e60392b?w=500",
-                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500",
-                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500"
+                "/assets/products/gallery_68f876941aa44.jpg",
+                "/assets/products/gallery_68f876941b1ca.jpg",
+                "/assets/products/gallery_68f876941b6f2.jpg",
+                "/assets/products/gallery_68f876941bb05.jpg"
             ]
         },
         {
             "id": 3,
-            "name": "Oversized Comfort Tee",
-            "price": 1200000,
-            "originalPrice": 1500000,
-            "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1200",
+            "name": "HEADON PULL IN MILK ALPACA KNIT",
+            "price": 12000000,
+            "originalPrice": 15000000,
+            "image": "/assets/products/product_68f87758eb934.jpg",
             "category": "men",
             "discount": 20,
             "type": "T-Shirt",
-            "colors": ["Beige", "Olive", "Brown"],
-            "sizes": ["M", "L", "XL", "XXL"],
-            "description": "Relaxed oversized fit T-shirt. Contemporary street style.",
-            "material": "Heavy Weight Cotton",
+            "colors": [
+                "Milk"
+            ],
+            "sizes": [
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "description": "THIS HEADON PULL IS ABOVE HIP LENGTH WITH LONG SLEEVES. IT HAS A SLIGHT LUPETTO ROUND NECK, KNIT LEVEL SHOULDER SEAMS, LINE RUNNING DOWN THE CENTRE FRONT AND SIGNATURE KNIT CHANNEL RUNNING DOWN THE CENTRE BACK SPINE.\r\n\r\n \r\n\r\nTHIS A DENSE BUT LIGHT KNIT WITH A SOFT SLIGHTLY FLUFFY HAND.",
+            "material": "48% ALPACA + 30% NYLON + 20% WOOL + 2% ELASTANE",
             "gallery": [
-                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500",
-                "https://images.unsplash.com/photo-1758613656376-59e3b5cef922?w=500",
-                "https://images.unsplash.com/photo-1634849112476-88cb7e60392b?w=500",
-                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500"
+                "/assets/products/gallery_68f87758ec2f0.jpg",
+                "/assets/products/gallery_68f87758ec7b9.jpg",
+                "/assets/products/gallery_68f87758ecddd.jpg",
+                "/assets/products/gallery_68f87758ed6f0.jpg"
             ]
         },
         {
             "id": 4,
-            "name": "Tailored Dress Pants",
-            "price": 2950000,
-            "originalPrice": 2950000,
-            "image": "https://images.unsplash.com/photo-1541840031508-326b77c9a17e?w=1200",
+            "name": "DOUBLE CARGO JEANS IN COATED POPLIN",
+            "price": 29500000,
+            "originalPrice": 29500000,
+            "image": "/assets/products/product_68f878e6b0e10.jpg",
             "category": "men",
             "discount": 0,
             "type": "Pants",
-            "colors": ["Navy", "Charcoal", "Black"],
-            "sizes": ["29", "30", "31", "32", "33", "34"],
-            "description": "Classic tailored pants with perfect drape. Office to evening.",
-            "material": "Wool Blend Fabric",
+            "colors": [
+                "Navy",
+                "Charcoal",
+                "Black"
+            ],
+            "sizes": [
+                "29",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34"
+            ],
+            "description": "THESE DOUBLE CARGO JEANS ARE FULL LENGTH 5 POCKET JEAN WITH A LOW-RISE AND A LOOSE FIT. THEY HAVE A SILVER BUTTON FLY, BELT LOOPS AND POCKET RIVETS AND THEY FEATURE TWO BEVELED CARGO POCKETS ON THE THIGH, WITH TWO SQUARE CARGO POCKETS BELOW, AND TWO SQUARE BACK POCKETS, ALL HAVE FLAPS AND TOPSTITCHING.\r\n\r\n \r\n\r\nTHIS LIGHTWEIGHT COTTON POPLIN HAS A SEMI SHINY WATER REPELLENT WAX COATING AND A CRISPY HAND FEEL. \r\n\r\n \r\n\r\nTHIS FABRIC IS MADE USING GOTS CERTIFIED ORGANIC COTTON WHICH MEANS THE NATURAL FIBER IS GROWN WITHOUT HARMFUL CHEMICALS, LEAVING OUR SOIL, AIR AND WATER CLEANER FROM CONTAMINATES.",
+            "material": "93% COTTON + 7% POLYURETHANE",
             "gallery": [
-                "https://images.unsplash.com/photo-1541840031508-326b77c9a17e?w=500",
-                "https://images.unsplash.com/photo-1758534063951-1c78600f8129?w=500",
-                "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=500",
-                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500"
+                "/assets/products/gallery_68f878e6b1539.jpg",
+                "/assets/products/gallery_68f878e6b188b.jpg",
+                "/assets/products/gallery_68f878e6b1bb2.jpg",
+                "/assets/products/gallery_68f878e6b2009.jpg"
             ]
         },
         {
             "id": 5,
-            "name": "Slim Fit Chinos",
-            "price": 1890000,
-            "originalPrice": 1890000,
-            "image": "https://images.unsplash.com/photo-1758534063951-1c78600f8129?w=1200",
+            "name": "14OZ HUSTLER SLUB DENIM",
+            "price": 18900000,
+            "originalPrice": 18899998,
+            "image": "/assets/products/product_68f87952e0913.jpg",
             "category": "men",
             "discount": 0,
             "type": "Pants",
-            "colors": ["Khaki", "Olive", "Navy"],
-            "sizes": ["29", "30", "31", "32", "33", "34"],
-            "description": "Versatile slim fit chinos. Smart casual essential.",
-            "material": "Cotton Twill",
+            "colors": [
+                "Khaki",
+                "Olive",
+                "Navy"
+            ],
+            "sizes": [
+                "29",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34"
+            ],
+            "description": "THESE JORIS TROUSERS ARE FLOOR LENGTH. THEY HAVE A CONCEALED BUTTON FLY WITH RIVET, BELT LOOPS AND SIDE WELT POCKETS WITH RIVET DETAIL. THEY FEATURE A DISTRESSED RAW EDGE ON THE INNER RIGHT LEG AND OUTER LEFT HIP IN CONTRAST FABRIC.\r\n\r\n \r\n\r\nTHIS MEDIUMWEIGHT HUSTLER DENIM IS MADE ON A 14OZ JAPANESE INDIGO AND NATURAL SLUB DENIM WOVEN IN FUKUYAMA PREFECTURE BY A MILL FOUNDED IN 1893. THE READY GARMENT IS STONE WASHED WITH MINERAL DYES TO ACHIEVE THE HUSTLER WASH.",
+            "material": "POCKETS LINING 52% POLYESTER + 48% COTTON",
             "gallery": [
-                "https://images.unsplash.com/photo-1758534063951-1c78600f8129?w=500",
-                "https://images.unsplash.com/photo-1541840031508-326b77c9a17e?w=500",
-                "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=500",
-                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500"
+                "/assets/products/gallery_68f87952e1637.jpg",
+                "/assets/products/gallery_68f87952e543b.jpg",
+                "/assets/products/gallery_68f87952e592c.jpg",
+                "/assets/products/gallery_68f87952e5dc5.jpg"
             ]
         },
         {
             "id": 6,
-            "name": "Relaxed Cargo Pants",
+            "name": "BELA PODS BLISTER LAMB LEATHER",
             "price": 2400000,
             "originalPrice": 3000000,
-            "image": "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=1200",
+            "image": "/assets/products/product_68f879fe241ad.jpg",
             "category": "men",
             "discount": 20,
             "type": "Pants",
-            "colors": ["Black", "Olive", "Khaki"],
-            "sizes": ["30", "31", "32", "33", "34"],
-            "description": "Modern cargo pants with functional pockets. Urban utility.",
-            "material": "Durable Cotton Canvas",
+            "colors": [
+                "Black",
+                "Olive",
+                "Khaki"
+            ],
+            "sizes": [
+                "30",
+                "31",
+                "32",
+                "33",
+                "34"
+            ],
+            "description": "THESE BELA PODS ARE BELOW KNEE LENGTH SHORTS WITH A LOW DROPPED CROTCH. THEY HAVE AN ELASTICIZED WAISTBAND WITH DRAWSTRING, A BELA EXPOSED CENTER ZIP WITH TWO SNAP DETAIL AT BOTTOM, TWO SIDE WELT POCKETS WITH EYELETS AND TWO SQUARE BACK POCKETS WITH FLAPS AND SNAPS.\r\n\r\n \r\n\r\nTHIS LIGHTWEIGHT LAMB LEATHER HAS AN EXAGGERATED, UNEVEN BLISTERED TEXTURE AND A SOFT, FLUID HANDFEEL. THE BLISTERED TEXTURE IS ACHIEVED BY EXAGGERATING THE NATURAL GRAIN TEXTURE OF EACH SKIN, THEREFORE THE LOOK OF EACH SKIN IS UNIQUE.",
+            "material": "100% LAMB LEATHER",
             "gallery": [
-                "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=500",
-                "https://images.unsplash.com/photo-1541840031508-326b77c9a17e?w=500",
-                "https://images.unsplash.com/photo-1758534063951-1c78600f8129?w=500",
-                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500"
+                "/assets/products/gallery_68f879fe24b84.jpg",
+                "/assets/products/gallery_68f879fe24f82.jpg",
+                "/assets/products/gallery_68f879fe252bc.jpg",
+                "/assets/products/gallery_68f879fe2573c.jpg"
             ]
         },
         {
             "id": 7,
-            "name": "Leather Biker Jacket",
-            "price": 8900000,
-            "originalPrice": 8900000,
-            "image": "https://images.unsplash.com/photo-1713740374957-773d875f5b77?w=1200",
+            "name": "BLIXA CAPE IN BLACK MELTON",
+            "price": 89000000,
+            "originalPrice": 88999997,
+            "image": "/assets/products/product_68f87b10904c9.jpg",
             "category": "men",
             "discount": 0,
             "type": "Coats-Jackets",
-            "colors": ["Black", "Brown"],
-            "sizes": ["S", "M", "L", "XL"],
-            "description": "Premium leather biker jacket. Timeless rebellion.",
-            "material": "Full Grain Leather",
+            "colors": [
+                "Black",
+                "Brown"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "description": "THIS BLIXA CAPE IS BELOW KNEE LENGTH AND SLEEVELESS. IT HAS A CONCEALED CENTRE FRONT ZIPPER AND FITS COMFORTABLY OVER THE SHOULDERS. ITS FRONT HARNESS AND CLIP ENSURE IT HOLDS IN PLACE. IT FEATURES TWO-WAY, ABOVE-ELBOW, BLIXA ZIPPERS, THAT GO FROM FRONT TO BACK. WHEN UNZIPPED THE ARMS CAN BE FREED FROM INSIDE THE CAPE. IT HAS SIDE POCKETS AND IS FULLY LINED AND HAS INTERNAL ZIPPERED POCKETS. \r\n\r\n \r\n\r\nTHIS HEAVYWEIGHT AND COMPACT WOOL MELTON HAS A FLAT, MATTE FINISH AND A SOFT HANDFEEL.",
+            "material": "100% NEW WOOL",
             "gallery": [
-                "https://images.unsplash.com/photo-1713740374957-773d875f5b77?w=500",
-                "https://images.unsplash.com/photo-1645466478772-99f652533d44?w=500",
-                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500",
-                "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=500"
+                "/assets/products/gallery_68f87b1090eba.jpg",
+                "/assets/products/gallery_68f87b10912af.jpg",
+                "/assets/products/gallery_68f87b109164c.jpg",
+                "/assets/products/gallery_68f87b1091b95.jpg"
             ]
         },
         {
             "id": 8,
-            "name": "Wool Overcoat",
-            "price": 6500000,
-            "originalPrice": 6500000,
-            "image": "https://images.unsplash.com/photo-1645466478772-99f652533d44?w=1200",
+            "name": "HIGH NECK JACKET BLISTER LAMB LEATHER",
+            "price": 65000000,
+            "originalPrice": 65000000,
+            "image": "/assets/products/product_68f87b87ee5e7.jpg",
             "category": "men",
             "discount": 0,
             "type": "Coats-Jackets",
-            "colors": ["Camel", "Navy", "Grey"],
-            "sizes": ["M", "L", "XL"],
-            "description": "Classic wool overcoat. Sophisticated elegance.",
-            "material": "Premium Wool",
+            "colors": [
+                "Camel",
+                "Navy",
+                "Grey"
+            ],
+            "sizes": [
+                "M",
+                "L",
+                "XL"
+            ],
+            "description": "THIS INTARSIA JKT IS ABOVE THE HIP LENGTH WITH LONG SLEEVES. IT HAS A CENTER FRONT ZIPPER CLOSURE, A STAND COLLAR, SIDE FRONT JET POCKETS AND RIBBED CUFFS. IT FEATURES GEOMETRIC PANELS ON THE SHOULDERS AND SIDE FRONT, WITH TOP STITCHING.\r\n\r\n \r\n\r\nTHIS LIGHTWEIGHT LAMB LEATHER HAS AN EXAGGERATED UNEVEN BLISTERED TEXTURE AND A SOFT, FLUID HANDFEEL. THE BLISTERED TEXTURE IS ACHIEVED BY EXAGGERATING THE NATURAL GRAIN TEXTURE OF EACH SKIN, THEREFORE THE LOOK OF EACH SKIN IS UNIQUE.",
+            "material": "100% LAMB LEATHER",
             "gallery": [
-                "https://images.unsplash.com/photo-1645466478772-99f652533d44?w=500",
-                "https://images.unsplash.com/photo-1713740374957-773d875f5b77?w=500",
-                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500",
-                "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=500"
+                "/assets/products/gallery_68f87b87ef380.jpg",
+                "/assets/products/gallery_68f87b87ef9a8.jpg",
+                "/assets/products/gallery_68f87b87f02f9.jpg",
+                "/assets/products/gallery_68f87b87f072d.jpg"
             ]
         },
         {
             "id": 9,
-            "name": "Bomber Jacket",
-            "price": 3200000,
-            "originalPrice": 4000000,
-            "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200",
+            "name": "TIGHT JKT CURLY SHEARLING",
+            "price": 31999998,
+            "originalPrice": 40000000,
+            "image": "/assets/products/product_68f87c0ca66b4.jpg",
             "category": "men",
             "discount": 20,
             "type": "Coats-Jackets",
-            "colors": ["Olive", "Black", "Navy"],
-            "sizes": ["S", "M", "L", "XL"],
-            "description": "Classic bomber jacket with modern twist. Military heritage.",
-            "material": "Nylon Shell, Polyester Lining",
+            "colors": [
+                "Olive",
+                "Black",
+                "Navy"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "description": "THIS TIGHT JKT IS WAIST LENGTH. IT IS CLOSE-FITTING, WITH LONG, RIB KNIT SLEEVES, AND AN OPEN FRONT THAT SECURES WITH A LONG TIE THAT THEN WRAPS AROUND THE WAIST. IT FEATURES STRUCTURED, WIDE TATLIN SHOULDERS WITH A GIRDERED SHOULDER SEAM, AND YOKE THAT IS HORIZONTAL ACROSS THE CHEST AND DESCENDS DOWN THE ARM, TO FINISH IN A BLUNT POINT AT THE ELBOW.\r\n\r\n \r\n\r\nTHIS HEAVYWEIGHT SHEARLING LAMB LEATHER HAS A WAXY NAPPA FINISH AND A SOFT NATURAL FUR.",
+            "material": "100% LAMB SHEARLING REAL FUR",
             "gallery": [
-                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500",
-                "https://images.unsplash.com/photo-1713740374957-773d875f5b77?w=500",
-                "https://images.unsplash.com/photo-1645466478772-99f652533d44?w=500",
-                "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=500"
+                "/assets/products/gallery_68f87c0ca74e1.jpg",
+                "/assets/products/gallery_68f87c0ca7d38.jpg",
+                "/assets/products/gallery_68f87c0ca8414.jpg",
+                "/assets/products/gallery_68f87c0ca8b9e.jpg"
             ]
         },
         {
             "id": 10,
-            "name": "Elegant Midi Dress",
-            "price": 3950000,
-            "originalPrice": 3950000,
-            "image": "https://images.unsplash.com/photo-1678637803638-0bcc1e13ecae?w=1200",
+            "name": "MEGACRUST STRETCH DENIM DRESS",
+            "price": 395000000,
+            "originalPrice": 394999990,
+            "image": "/assets/products/product_68f87cae0316c.jpg",
             "category": "women",
             "discount": 0,
             "type": "Dress",
-            "colors": ["Navy", "Burgundy", "Emerald"],
-            "sizes": ["S", "M", "L"],
-            "description": "Timeless midi dress with elegant silhouette. Day to night.",
-            "material": "Silk Blend",
+            "colors": [
+                "Navy",
+                "Burgundy",
+                "Emerald"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "description": "THIS SL ETNA DRESS IS FLOOR LENGTH AT THE SIDES WITH A CLOSE TO THE BODY FIT. IT FEATURES A WIDE, HIGH DRAPED NECK AT FRONT, THAT WIDENS INTO AN OPEN BACK NECK, AND HAS A ZIPPER DOWN TO THE BUTT. IT IS SLEEVELESS AND FEATURES TWO HIGH SLITS FRONT AND BACK AS WELL AS A FRONT AND BACK STITCH RIDGE DETAIL. \r\n\r\n \r\n\r\nTHIS LIGHTWEIGHT STRETCH MEGACRUST DENIM IS GARMENT DYED BLACK AND TREATED WITH A WAX FINISH, THEN SEVERAL LAYERS OF BLACK FOIL IS PRESSED ON TOP AND A FINAL WASH MAKES THE FOIL PEEL AND CRACK.\r\n\r\n \r\n\r\nTHE NATURAL ASPECTS OF THIS TREATMENT MEANS THE FOIL HAS PEELED OFF AND CRACKED IN CERTAIN AREAS AND WILL CONTINUE TO DO SO WITH WEAR AND ABRASION. THIS IS AN INHERENT CHARACTERISTIC OF THIS TYPE OF TREATMENT AND IS A DESIRED A VISUAL ASPECT WHICH ADDS TO THE UNIQUENESS OF EACH PIECE.",
+            "material": "91% COTTON + 6% ELASTOMULTIESTER + 3% RUBBER FIBER",
             "gallery": [
-                "https://images.unsplash.com/photo-1678637803638-0bcc1e13ecae?w=500",
-                "https://images.unsplash.com/photo-1594846951450-7ad385b03a69?w=500",
-                "https://images.unsplash.com/photo-1551803091-e20673f15770?w=500",
-                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500"
+                "/assets/products/gallery_68f87cae03b7a.jpg",
+                "/assets/products/gallery_68f87cae0400a.jpg",
+                "/assets/products/gallery_68f87cae0433c.jpg",
+                "/assets/products/gallery_68f87cae046d7.jpg"
             ]
         },
         {
             "id": 11,
-            "name": "Floral Summer Dress",
-            "price": 2890000,
-            "originalPrice": 2890000,
-            "image": "/assets/products/product_68f2537456316.png",
+            "name": "SEB DRESS IN WASHED CUPRO",
+            "price": 28899998,
+            "originalPrice": 28900000,
+            "image": "/assets/products/product_68f87df27bb49.jpg",
             "category": "women",
             "discount": 0,
             "type": "Dress",
-            "colors": "Floral Blue, Floral Pink",
-            "sizes": "S, M, L",
-            "description": "Light and breezy floral dress. Perfect for summer.",
-            "material": "Cotton Voile",
-            "gallery": "[\"\\/assets\\/products\\/gallery_68f25374569a1.png\",\"\\/assets\\/products\\/gallery_68f2537457217.png\",\"\\/assets\\/products\\/gallery_68f2537457cfd.png\",\"\\/assets\\/products\\/gallery_68f2537458163.png\"]"
+            "colors": [
+                "Floral Blue",
+                "Floral Pink"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "description": "THIS SEB DRESS IS KNEE-LENGTH, WITH A DRAPED BIAS CUT BODY, SHORT WIDE KIMONO SLEEVES AND A HIGH DRAPED COWL NECK THAT HAS AN ASYMMETRICAL OPENING AT BACK.\r\n\r\n \r\n\r\nTHIS MEDIUMWEIGHT WASHED CUPRO SATIN IS FLUID AND FINISHED WITH ENZYMES WHICH GIVES THIS FABRIC ITS PEACH HANDFEEL.",
+            "material": "100% CUPRO",
+            "gallery": [
+                "/assets/products/gallery_68f87df27c7d3.jpg",
+                "/assets/products/gallery_68f87df27cc3f.jpg",
+                "/assets/products/gallery_68f87df27cf83.jpg",
+                "/assets/products/gallery_68f87df27d559.jpg"
+            ]
         },
         {
             "id": 12,
-            "name": "Evening Gown",
-            "price": 7200000,
-            "originalPrice": 9000000,
-            "image": "/assets/products/product_68f252f4ee179.png",
+            "name": "DEGRADE DRKDUST DEGRADE SLUB STRETCH DENIM",
+            "price": 72000000,
+            "originalPrice": 90000000,
+            "image": "/assets/products/product_68f87e71a9fc4.jpg",
             "category": "women",
             "discount": 20,
             "type": "Dress",
-            "colors": "Black, Navy, Wine Red",
-            "sizes": "S, M, L",
-            "description": "Luxurious evening gown for special occasions. Red carpet ready.",
-            "material": "Satin Silk",
-            "gallery": "[\"\\/assets\\/products\\/gallery_68f252f4eefe4.png\",\"\\/assets\\/products\\/gallery_68f252f4efbe1.png\",\"\\/assets\\/products\\/gallery_68f252f4f0262.png\",\"\\/assets\\/products\\/gallery_68f252f4f06b7.png\"]"
+            "colors": [
+                "Black",
+                "Navy",
+                "Wine Red"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "description": "THIS PRONG GOWN IS FLOOR LENGTH. IT FEATURES A STRAPLESS STRUCTURED BODICE WITH A BONED GEOMETRIC CUTOUT FRONT AND FOLDED BUST DETAIL. IT HAS A TIGHT FITTING SKIRT WHICH TAPERS SLIGHTLY TO THE ANKLE WITH A HIGH CENTRE BACK SPLIT, AND EXPOSED ZIPPER CLOSURE.\r\n\r\n \r\n\r\nTHIS LIGHTWEIGHT DRKDUST DEGRADE DENIM IS MADE ON A 10OZ JAPANESE INDIGO AND NATURAL SLUB DENIM. THE READY GARMENT IS STONE WASHED WITH MINERAL DYES AND THEN SPRAYED BY HAND TO ACHIEVE THE DEGRADE COLORATION.\r\n\r\n \r\n\r\nTHIS FABRIC IS MADE USING GOTS CERTIFIED ORGANIC COTTON WHICH MEANS THE NATURAL FIBER IS GROWN WITHOUT HARMFUL CHEMICALS, LEAVING OUR SOIL, AIR AND WATER CLEANER FROM CONTAMINATES.",
+            "material": "91% COTTON + 6% ELASTOMULTIESTER + 3% RUBBER FIBER",
+            "gallery": [
+                "/assets/products/gallery_68f87e71aa975.jpg",
+                "/assets/products/gallery_68f87e71aad0e.jpg",
+                "/assets/products/gallery_68f87e71ab02f.jpg",
+                "/assets/products/gallery_68f87e71ab44d.jpg"
+            ]
         },
         {
             "id": 13,
-            "name": "Pleated Midi Skirt",
-            "price": 1890000,
-            "originalPrice": 1890000,
-            "image": "https://images.unsplash.com/photo-1637227314917-3c0f595c3596?w=1200",
+            "name": "13OZ BLACK WASHED FOIL DENIM",
+            "price": 18900000,
+            "originalPrice": 18900000,
+            "image": "/assets/products/product_68f87f2b20d22.jpg",
             "category": "women",
             "discount": 0,
             "type": "Skirt",
-            "colors": ["Black", "Navy", "Beige"],
-            "sizes": ["S", "M", "L"],
-            "description": "Classic pleated midi skirt. Effortlessly chic.",
-            "material": "Polyester Crepe",
+            "colors": [
+                "Black",
+                "Navy",
+                "Beige"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "description": "THIS SISYSNAP SKIRT IS MID-THIGH LENGTH. IT FEATURES A FUNCTIONAL SNAP CLOSURE AND DECORATIVE SNAP DETAIL ON RIGHT HIP. IT HAS SIDE POCKETS, BACK PATCH POCKETS, A RIGHT SIDE SLIT AND A RAW CUT EDGE AND HEM. \r\n\r\n \r\n\r\nTHIS MEDIUMWEIGHT WASHED FOIL DENIM IS MADE ON A 13OZ JAPANESE BLACK AND NATURAL DENIM. THE READY GARMENT IS BLEACHED INTO A DIRTY PEARL COLOR, A BLACK FOIL OVERLAY IS THEN APPLIED AND FINALLY THE GARMENT IS WASHED TO ACHIEVE THE IRREGULAR LOOK.\r\n\r\n \r\n\r\nTHE NATURAL ASPECTS OF THIS TREATMENT MEANS THE FOIL APPLICATION IS IRREGULAR AND HAS PEELED OFF IN CERTAIN AREAS AND WILL CONTINUE TO DO SO WITH WEAR AND ABRASION. THIS IS AN INHERENT CHARACTERISTIC OF THIS TYPE OF TREATMENT AND IS A DESIRED VISUAL ASPECT WHICH ADDS TO THE UNIQUENESS OF EACH PIECE.",
+            "material": "100% COTTON",
             "gallery": [
-                "https://images.unsplash.com/photo-1637227314917-3c0f595c3596?w=500",
-                "https://images.unsplash.com/photo-1551803091-e20673f15770?w=500",
-                "https://images.unsplash.com/photo-1594846951450-7ad385b03a69?w=500",
-                "https://images.unsplash.com/photo-1678637803638-0bcc1e13ecae?w=500"
+                "/assets/products/gallery_68f87f2b218a4.jpg",
+                "/assets/products/gallery_68f87f2b280c2.jpg",
+                "/assets/products/gallery_68f87f2b2910b.jpg",
+                "/assets/products/gallery_68f87f2b29c24.jpg"
             ]
         },
         {
             "id": 14,
-            "name": "A-Line Mini Skirt",
-            "price": 1590000,
-            "originalPrice": 1590000,
-            "image": "https://images.unsplash.com/photo-1594846951450-7ad385b03a69?w=1200",
+            "name": "SLICED SKIRT IN NATURAL WAXY PIRARUCU",
+            "price": 159000000,
+            "originalPrice": 159000000,
+            "image": "/assets/products/product_68f87f86cd845.jpg",
             "category": "women",
             "discount": 0,
             "type": "Skirt",
-            "colors": ["White", "Black", "Pink"],
-            "sizes": ["S", "M", "L"],
-            "description": "Flirty A-line mini skirt. Playful and feminine.",
-            "material": "Cotton Blend",
+            "colors": [
+                "White",
+                "Black",
+                "Pink"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "description": "THIS SLICED SKIRT IS FLOOR LENGTH AT SIDES. IT HAS A CENTRE BACK ZIPPER AND A CLOSE TO THE BODY FIT. IT FEATURES TWO HIGH SLITS FRONT AND BACK AS WELL AS A FRONT AND BACK STITCH RIDGE DETAIL. IT HAS SIDE SEAM POCKETS. \r\n\r\n \r\n\r\nTHIS GENUINE PIRARUCU FISHSKIN HAS A SOFT, MATTE AND WAXY FINISH.\r\n\r\n \r\n\r\nTHE PIRARUCU IS ONE OF THE WORLD’S LARGEST FRESHWATER FISH. NATIVE TO THE AMAZON BIOME, IT IS TRADITIONALLY FISHED AS A FOOD SOURCE BY LOCAL COMMUNITIES AND THE SKIN IS WASTED. THE LEGAL CAPTURE OF PIRARUCU IS TODAY RESTRICTED TO SPECIFIC ECOLOGICAL RESERVES AND LIMITED IN ORDER TO PRESERVE THE SPECIES. BY RECYCLING THE GIANT SKINS, INDIGENOUS COMMUNITIES IN BRAZIL ARE ABLE TO RECEIVE A SIGNIFICANT INCOME FROM SOMETHING THAT WAS NORMALLY DISCARDED. TAKING CARE OF THIS BY-PRODUCT ALSO PROVIDES JOB OPPURTUNITIES FOR THE SAME COMMUNITIES AND FINANCES PART OF THE BIODIVERSITY PRESERVATION.",
+            "material": "100% LEATHER OF PIRARUCU FISH",
             "gallery": [
-                "https://images.unsplash.com/photo-1594846951450-7ad385b03a69?w=500",
-                "https://images.unsplash.com/photo-1637227314917-3c0f595c3596?w=500",
-                "https://images.unsplash.com/photo-1551803091-e20673f15770?w=500",
-                "https://images.unsplash.com/photo-1678637803638-0bcc1e13ecae?w=500"
+                "/assets/products/gallery_68f87f86ce309.jpg",
+                "/assets/products/gallery_68f87f86d39e4.jpg",
+                "/assets/products/gallery_68f87f86d3e1f.jpg",
+                "/assets/products/gallery_68f87f86d4121.jpg"
             ]
         },
         {
             "id": 15,
-            "name": "Leather Pencil Skirt",
-            "price": 2800000,
-            "originalPrice": 3500000,
-            "image": "https://images.unsplash.com/photo-1551803091-e20673f15770?w=1200",
+            "name": "BANANA MINI IN WOOL DRILL",
+            "price": 18000000,
+            "originalPrice": 25000000,
+            "image": "/assets/products/product_68f8800820a6b.jpg",
             "category": "women",
             "discount": 20,
             "type": "Skirt",
-            "colors": ["Black", "Brown"],
-            "sizes": ["S", "M", "L"],
-            "description": "Sleek leather pencil skirt. Modern edge.",
-            "material": "Genuine Leather",
+            "colors": [
+                "Black",
+                "Brown"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "description": "THIS BOLAN BANANA MINI IS A HIGH WAISTED, SLIM FIT 6-POCKET JEAN SKIRT AND FALL HIGH ON THE THIGH. IT HAS A WAISTBAND WITH BELT LOOPS AND POCKET RIVETS AND CLOSE WITH A CONCEALED BUTTON FLY. IT FEATURES A LONG ZIPPER RUNNING FROM CENTRE BUTT, CURVING AROUND THE HIP TO THE SKIRT HEM. IT CAN UNZIPPER AT BACK TO EXPOSE THE BUTT AND ALSO UP FROM THE HEM TO EXPOSE MORE OF THE THIGH.\r\n\r\n \r\n\r\nTHIS MEDIUMWEIGHT WOOL DRILL FABRIC HAS A DISTINCT DRILL TEXTURE AND A DRY HANDFEEL.",
+            "material": "100% WOOL",
             "gallery": [
-                "https://images.unsplash.com/photo-1551803091-e20673f15770?w=500",
-                "https://images.unsplash.com/photo-1637227314917-3c0f595c3596?w=500",
-                "https://images.unsplash.com/photo-1594846951450-7ad385b03a69?w=500",
-                "https://images.unsplash.com/photo-1678637803638-0bcc1e13ecae?w=500"
+                "/assets/products/gallery_68f8800821bb2.jpg",
+                "/assets/products/gallery_68f8800824bae.jpg",
+                "/assets/products/gallery_68f88008253d1.jpg",
+                "/assets/products/gallery_68f880082573e.jpg"
             ]
         },
         {
             "id": 16,
-            "name": "Silk Blouse",
-            "price": 2490000,
-            "originalPrice": 2490000,
-            "image": "https://images.unsplash.com/photo-1708533096181-dab486856499?w=1200",
+            "name": "TEC TOP IN WAX STRETCH DENIM",
+            "price": 24900000,
+            "originalPrice": 24900000,
+            "image": "/assets/products/product_68f880706f9ae.jpg",
             "category": "women",
             "discount": 0,
             "type": "Top",
-            "colors": ["Ivory", "Black", "Dusty Rose"],
-            "sizes": ["S", "M", "L"],
-            "description": "Luxurious silk blouse with refined details. Office elegance.",
-            "material": "Pure Silk",
+            "colors": [
+                "Ivory",
+                "Black",
+                "Dusty Rose"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "description": "THIS TEC TOP IS HIP LENGTH WITH LONG, SLIM SLEEVES AND A BODY HUGGING FIT. IT FEATURES EXAGGERATED TEC SHOULDERS WHICH RISE INTO RAW CUT POINTS AND A GEOMETRIC LINE DETAIL ON FRONT. IT CLOSES WITH A ZIPPER, WITH PULL TAB, ON CENTRE BACK. \r\n\r\n \r\n\r\nTHIS LIGHTWEIGHT BLACK WAX DENIM IS MADE ON A 10OZ BLACK AND NATURAL STRETCH DENIM. THE READY GARMENT IS OVERDYED BLACK AND TREATED WITH A WAX FINISH. A FINAL WASH GIVES THIS GARMENT ITS SOFTNESS.\r\n\r\n \r\n\r\nTHIS GARMENT IS TREATED IN AN ITALIAN WASH HOUSE BASED IN THE VENETO AREA OF ITALY, THAT PRODUCES IN SMALLER TREATMENT BATHS TO REDUCE WATER WASTE AND UTILIZE A WATER PURIFYING PROCESS THAT ENABLES THEM TO RECYCLE A PORTION OF THE WATER USED. ALL OF OUR DENIM WASHES ARE ZDHC CERTIFIED.",
+            "material": "91% COTTON + 6% ELASTOMULTIESTER + 3% RUBBER FIBER",
             "gallery": [
-                "https://images.unsplash.com/photo-1708533096181-dab486856499?w=500",
-                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500",
-                "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500",
-                "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500"
+                "/assets/products/gallery_68f88070703d6.jpg",
+                "/assets/products/gallery_68f8807076ac0.jpg",
+                "/assets/products/gallery_68f8807076edd.jpg",
+                "/assets/products/gallery_68f88070772a9.jpg"
             ]
         },
         {
             "id": 17,
-            "name": "Ribbed Knit Top",
-            "price": 1290000,
-            "originalPrice": 1290000,
-            "image": "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=1200",
+            "name": "CYLINDER TOP IN PEARL HEAVY CADY",
+            "price": 12900000,
+            "originalPrice": 12900000,
+            "image": "/assets/products/product_68f88104c3b5b.jpg",
             "category": "women",
             "discount": 0,
             "type": "Top",
-            "colors": ["Cream", "Black", "Camel"],
-            "sizes": ["S", "M", "L"],
-            "description": "Soft ribbed knit top. Cozy and stylish.",
-            "material": "Merino Wool Blend",
+            "colors": [
+                "Cream",
+                "Black",
+                "Camel"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "description": "THIS CYLINDER TOP IS HIP-LENGTH, WITH A DRAPED BIAS CUT BODY, ELBOW-LENGTH WIDE SLEEVES AND A HIGH DRAPED COWL NECK THAT HAS AN ASYMMETRICAL OPENING AT BACK. IT GATHERS INTO THE WAIST AND FINISHES IN A TIGHT BODY TO THE HIP.\r\n\r\n \r\n\r\nTHIS MEDIUMWEIGHT CADY CREPE IS FLUID WITH A CRISP SURFACE TEXTURE AND A COOL SLICK BACKSIDE. \r\n\r\n \r\n\r\nTHIS FABRIC IS MADE FROM FSC® - CERTIFIED (FSC - C162846) VISCOSE AND ACETATE WHICH ENSURES THAT THE FIBERS ARE PRODUCED FROM RESPONSIBLY MANAGED SOURCES AND NO DEFORESTATION OCCURS.",
+            "material": "53% VISCOSE + 47% ACETATE",
             "gallery": [
-                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500",
-                "https://images.unsplash.com/photo-1708533096181-dab486856499?w=500",
-                "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500",
-                "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500"
+                "/assets/products/gallery_68f88104c465b.jpg",
+                "/assets/products/gallery_68f88104c4a13.jpg",
+                "/assets/products/gallery_68f88104c4d54.jpg",
+                "/assets/products/gallery_68f88104c5078.jpg"
             ]
         },
         {
             "id": 18,
-            "name": "Lace Detail Top",
-            "price": 1840000,
-            "originalPrice": 2300000,
-            "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1200",
+            "name": "DARKDUST LIGHTWEIGHT RASATO KNIT",
+            "price": 18399999,
+            "originalPrice": 23000000,
+            "image": "/assets/products/product_68f8818939be1.jpg",
             "category": "women",
             "discount": 20,
             "type": "Top",
-            "colors": ["White", "Black", "Nude"],
-            "sizes": ["S", "M", "L"],
-            "description": "Romantic top with delicate lace details. Feminine charm.",
-            "material": "Cotton with Lace Trim",
+            "colors": [
+                "White",
+                "Black",
+                "Nude"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "description": "THIS OVERSIZED CRATER IS BELOW HIP LENGTH WITH A JUMBO LOOSE FIT. IT FEATURES A HIGH RIBBED CREW NECK WITH SLIGHT COWL, A WIDE DROPPED SHOULDER AND ARMHOLE WITH LONG RIBBED SLEEVES AND A RIBBED HEM. IT HAS A SIGNATURE KNIT CHANNEL RUNNING DOWN THE CENTRE BACK SPINE.\r\n\r\n \r\n\r\nTHIS LIGHTWEIGHT AND CLASSIC STITCH WOOL KNIT HAS A SOFT HANDFEEL.",
+            "material": "100% NEW WOOL",
             "gallery": [
-                "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500",
-                "https://images.unsplash.com/photo-1708533096181-dab486856499?w=500",
-                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500",
-                "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500"
+                "/assets/products/gallery_68f881893a6dd.jpg",
+                "/assets/products/gallery_68f881893e6fd.jpg",
+                "/assets/products/gallery_68f881893eaef.jpg",
+                "/assets/products/gallery_68f881893ef57.jpg"
             ]
         },
         {
             "id": 19,
-            "name": "Trench Coat",
-            "price": 7500000,
-            "originalPrice": 7500000,
-            "image": "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=1200",
+            "name": "SCARF FLIGHT IN INDIGO INDIGO SUEDE",
+            "price": 75000000,
+            "originalPrice": 75000000,
+            "image": "/assets/products/product_68f88229d5e51.jpg",
             "category": "women",
             "discount": 0,
             "type": "Jacket",
-            "colors": ["Beige", "Black", "Navy"],
-            "sizes": ["S", "M", "L"],
-            "description": "Iconic trench coat. Timeless sophistication.",
-            "material": "Water-resistant Cotton Gabardine",
+            "colors": [
+                "Beige",
+                "Black",
+                "Navy"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "description": "THIS SCARF FLIGHT IS BELOW HIP LENGTH AND HAS LONG WIDE SLEEVES. IT FEATURES AN OFF CENTRE ZIPPER CLOSURE THAT CLOSES ON THE SIDE NECK AND IS COVERED BY AN ATTACHED SCARF SEGMENT THAT IS WORN OVER THE RIGHT SHOULDER. IT HAS A BELT AT WAIST HEIGHT THAT FASTENS WITH A BUCKLE. IT HAS SHOULDER SEAM FOLD DETAIL, A CONCEALED ZIPPED POCKET IN THE LEFT FOREARM AND SIDE SEAM POCKETS. IT IS FULLY LINED WITH INTERNAL ZIPPERED POCKETS. THIS VERSION HAS A FRINGED BACK AND SLEEVES.\r\n\r\n \r\n\r\nTHIS MEDIUMWEIGHT CROSTA COW SUEDE LEATHER IS MATTE WITH A HAIRY SURFACE TEXTURE. IT IS DYED USING NATURAL INDIGO AND WASHED SEVERAL TIMES TO ACHIEVE ITS FINAL LOOK. IT HAS A NATURAL AND WAXY HAND FEEL ACHIEVED BY DRUMMING THE SKINS WITH WAX.",
+            "material": "100% CALF LEATHER",
             "gallery": [
-                "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500",
-                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500",
-                "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500",
-                "https://images.unsplash.com/photo-1708533096181-dab486856499?w=500"
+                "/assets/products/gallery_68f88229d6e41.jpg",
+                "/assets/products/gallery_68f88229d745a.jpg",
+                "/assets/products/gallery_68f88229d7758.jpg",
+                "/assets/products/gallery_68f88229d7b8b.jpg"
             ]
         },
         {
             "id": 20,
-            "name": "Blazer Jacket",
-            "price": 4800000,
-            "originalPrice": 4800000,
-            "image": "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=1200",
+            "name": "DRACULIMO IN BLACK MELTON",
+            "price": 48000000,
+            "originalPrice": 48000000,
+            "image": "/assets/products/product_68f8828a4a2b5.jpg",
             "category": "women",
             "discount": 0,
             "type": "Jacket",
-            "colors": ["Black", "Navy", "Grey"],
-            "sizes": ["S", "M", "L"],
-            "description": "Tailored blazer jacket. Power dressing essential.",
-            "material": "Wool Blend",
+            "colors": [
+                "Black",
+                "Navy",
+                "Grey"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "description": "THIS DRACULIMO IS BELOW WAIST LENGTH IN FRONT AND LONGER IN THE BACK. IT HAS LONG SLEEVES AND A CENTRE FRONT ZIPPER. IT FEATURES AN EXTENDED LENGTH COLLAR THAT CAN BE WORN UP OR DOWN AND HOLDS ITS SHAPE THANKS TO IT BEING REINFORCED WITH FUSING MATERIAL. IT ALSO FEATURES A  FOLD IN THE BACK AND HAS A CURVED, SLIGHTLY LIFTED, FRONT HEM THAT ENDS IN POINTS AT THE SIDES. IT HAS TWO FRONT SIDE ZIPPERED POCKETS.\r\n\r\n \r\n\r\nTHIS HEAVYWEIGHT AND COMPACT WOOL MELTON HAS A FLAT, MATTE FINISH AND A SOFT HANDFEEL.",
+            "material": "100% NEW WOOL",
             "gallery": [
-                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500",
-                "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500",
-                "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500",
-                "https://images.unsplash.com/photo-1708533096181-dab486856499?w=500"
+                "/assets/products/gallery_68f8828a4b07c.jpg",
+                "/assets/products/gallery_68f8828a4b6fa.jpg",
+                "/assets/products/gallery_68f8828a4bd1c.jpg",
+                "/assets/products/gallery_68f8828a4c2f4.jpg"
             ]
         },
         {
             "id": 21,
-            "name": "Puffer Jacket",
-            "price": 3600000,
-            "originalPrice": 4500000,
-            "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1200",
+            "name": "CYCLOPS COAT IN DRKDUST CURLY SHEARLING",
+            "price": 150000000,
+            "originalPrice": 150000000,
+            "image": "/assets/products/product_68f882f772d96.jpg",
             "category": "women",
             "discount": 20,
             "type": "Jacket",
-            "colors": ["Black", "Cream", "Khaki"],
-            "sizes": ["S", "M", "L"],
-            "description": "Cozy puffer jacket. Urban winter essential.",
-            "material": "Down Fill, Nylon Shell",
+            "colors": [
+                "Black",
+                "Cream",
+                "Khaki"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "description": "THIS SL CYCLOPS COAT IS BELOW KNEE LENGTH AND SLEEVELESS. IT HAS A DEEP ARMHOLES AND AN OPEN FRONT AND SIDE SEAM POCKETS. THIS VERSION IS REVERSIBLE.\r\n\r\n \r\n\r\nTHIS HEAVYWEIGHT SHEARLING LAMB LEATHER HAS A WAXY NAPPA FINISH AND A SOFT NATURAL FUR.\r\n\r\n \r\n\r\nTANNED IN THE TUSCANY AREA OF ITALY, THESE SHEARLING MERINO HIDES ARE OF SPANISH ORIGIN, THE UNIQUE THICK FUR OF THESE ANIMALS MAKE THEM PERFECT FOR SHEARLING. BECAUSE THE HAIR IS NATURAL, THERE WILL BE VARIATIONS IN HAIR LENGTH AND TEXTURE, MAKING EACH PIECE UNIQUE.",
+            "material": "100% LAMB SHEARLING REAL FUR",
             "gallery": [
-                "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500",
-                "https://images.unsplash.com/photo-1706765779494-2705542ebe74?w=500",
-                "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500",
-                "https://images.unsplash.com/photo-1708533096181-dab486856499?w=500"
+                "/assets/products/gallery_68f882f7738bd.jpg",
+                "/assets/products/gallery_68f882f773e55.jpg",
+                "/assets/products/gallery_68f882f7745ba.jpg",
+                "/assets/products/gallery_68f882f774ee8.jpg"
             ]
         },
         {
             "id": 101,
-            "name": "VIVILLAN City Bag - Black",
-            "price": 5000000,
-            "originalPrice": 5000000,
-            "image": "/assets/bag-black.png",
+            "name": "GLOSSY BUTTER CALF LEATHER",
+            "price": 50000000,
+            "originalPrice": 49999999,
+            "image": "/assets/products/product_68f883d0d11c4.jpg",
             "category": "accessories",
             "discount": 0,
             "type": "Bag",
-            "colors": ["Black"],
-            "sizes": ["One Size"],
-            "description": "Classic leather city bag with signature hardware. Timeless elegance meets everyday functionality.",
-            "material": "100% Italian Leather, Gold-tone hardware",
+            "colors": [
+                "Framboise"
+            ],
+            "sizes": [
+                "One Size"
+            ],
+            "description": "THIS GEMINI BAG IS A LARGE SOFT A-SHAPED BAG THAT SLOUCHES IN THE MIDDLE. IT CURVES OVER TO CREATE A STRAP THAT SECURES WITH A GEMINI DOUBLE ENDED SNAP HOOK ENGRAVED WITH THE RICK OWENS LOGO. THE BAG OPENS WITH A TOP ZIP, HAS AN INNER POUCH POCKET AND A FLAT POCKET WITH SIGNATURE U-SHAPED STITCHING DETAIL VISIBLE ON THE REAR EXTERIOR.\r\n\r\n \r\n\r\nTHIS LIGHTWEIGHT GLOSSY BUTTER FULL CALF LEATHER IS FINISHED USING ANALINE AND NATURAL OILS IN ORDER TO ACHIEVE ITS BUTTERY HANDFEEL.",
+            "material": "100% CALF LEATHER",
             "gallery": [
-                "/assets/bag-black.png",
-                "https://images.unsplash.com/photo-1559563458-527698bf5295?w=500",
-                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
-                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=500"
+                "/assets/products/gallery_68f883d0d1fe1.jpg",
+                "/assets/products/gallery_68f883d0d23d5.jpg",
+                "/assets/products/gallery_68f883d0d27ac.jpg",
+                "/assets/products/gallery_68f883d0d2b3e.jpg"
             ]
         },
         {
             "id": 102,
-            "name": "VIVILLAN City Bag - Grey",
-            "price": 5000000,
-            "originalPrice": 5000000,
-            "image": "/assets/bag-grey.png",
+            "name": "BIG ADRI IN CALF LEATHER",
+            "price": 70000000,
+            "originalPrice": 70000000,
+            "image": "/assets/products/product_68f884625fdd1.jpg",
             "category": "accessories",
             "discount": 0,
             "type": "Bag",
-            "colors": ["Grey"],
-            "sizes": ["One Size"],
-            "description": "Classic leather city bag in grey with distressed finish. Modern sophistication.",
-            "material": "100% Italian Leather, Antique brass hardware",
+            "colors": [
+                "Grey"
+            ],
+            "sizes": [
+                "One Size"
+            ],
+            "description": "THIS BIG ADRI IS A RECTANGULAR POUCH WITH TOP ZIPPER CLOSURE, A PONTICELLO D-LOOP DETAIL AND A LONG, THIN, ADJUSTABLE LEATHER STRAP, WITH SMALL PALLADIUM TONE BRASS SNAP HOOKS AND D-RINGS.\r\n\r\n \r\n\r\nTHIS LIGHTWEIGHT GLOSSY BUTTER FULL CALF LEATHER IS FINISHED USING ANALINE AND NATURAL OILS IN ORDER TO ACHIEVE ITS BUTTERY HANDFEEL.\r\n\r\n \r\n\r\nIT IS FINISHED BY HOT PRESS IN ORDER TO ACHIEVE THE SHINY SURFACE.",
+            "material": "100% CALF LEATHER",
             "gallery": [
-                "/assets/bag-grey.png",
-                "https://images.unsplash.com/photo-1559563458-527698bf5295?w=500",
-                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
-                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=500"
+                "/assets/products/gallery_68f884626064c.jpg",
+                "/assets/products/gallery_68f88462609fc.jpg",
+                "/assets/products/gallery_68f8846260d05.jpg",
+                "/assets/products/gallery_68f88462611aa.jpg"
             ]
         },
         {
             "id": 103,
-            "name": "Designer Tote Bag",
-            "price": 6500000,
-            "originalPrice": 6500000,
-            "image": "https://images.unsplash.com/photo-1758171692659-024183c2c272?w=1200",
+            "name": "DARK DUST BLISTER LAMB LEATHER",
+            "price": 65000000,
+            "originalPrice": 65000000,
+            "image": "/assets/products/product_68f884d824114.jpg",
             "category": "accessories",
             "discount": 0,
             "type": "Bag",
-            "colors": ["Tan", "Black", "Navy"],
-            "sizes": ["One Size"],
-            "description": "Spacious designer tote bag. Perfect for work and travel.",
-            "material": "Premium Leather, Canvas lining",
+            "colors": [
+                "Tan"
+            ],
+            "sizes": [
+                "One Size"
+            ],
+            "description": "THIS ADRI IS A RECTANGULAR POUCH WITH TOP ZIPPER CLOSURE, A PONTICELLO D-LOOP DETAIL AND A LONG, THIN, ADJUSTABLE LEATHER STRAP, WITH SMALL PALLADIUM TONE BRASS SNAP HOOKS AND D-RINGS.\r\n\r\n \r\n\r\nTHIS LIGHTWEIGHT LAMB LEATHER HAS AN EXAGGERATED, UNEVEN BLISTERED TEXTURE AND A SOFT, FLUID HANDFEEL. THE BLISTERED TEXTURE IS ACHIEVED BY EXAGGERATING THE NATURAL GRAIN TEXTURE OF EACH SKIN, THEREFORE THE LOOK OF EACH SKIN IS UNIQUE.",
+            "material": "100% LAMB LEATHER",
             "gallery": [
-                "https://images.unsplash.com/photo-1758171692659-024183c2c272?w=500",
-                "https://images.unsplash.com/photo-1559563458-527698bf5295?w=500",
-                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
-                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=500"
+                "/assets/products/gallery_68f884d824c28.jpg",
+                "/assets/products/gallery_68f884d824faf.jpg",
+                "/assets/products/gallery_68f884d82532b.jpg",
+                "/assets/products/gallery_68f884d8256e6.jpg"
             ]
         },
         {
             "id": 104,
-            "name": "Classic Leather Sneakers",
-            "price": 3500000,
-            "originalPrice": 3500000,
-            "image": "https://images.unsplash.com/photo-1758702701300-372126112cb4?w=1200",
+            "name": "TACO KISS IN CALF LEATHER",
+            "price": 350000000,
+            "originalPrice": 350000000,
+            "image": "/assets/products/product_68f885bb5cc82.jpg",
             "category": "accessories",
             "discount": 0,
             "type": "Shoes",
-            "colors": ["White", "Black", "Navy"],
-            "sizes": ["36", "37", "38", "39", "40", "41", "42", "43"],
-            "description": "Premium leather sneakers with timeless design. Comfort meets style.",
-            "material": "Premium Leather, Rubber sole",
+            "colors": [
+                "White",
+                "Black",
+                "Navy"
+            ],
+            "sizes": [
+                "36",
+                "37",
+                "38",
+                "39",
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "description": "THESE TACO KISS BOOTS ARE A DEFLATED VERSION OF OUR STRAYTUKAY COLLABORATION BOOTS. THEY ARE THIGH HIGH. THEY HAVE A TIGHT SOCK UPPER, JOINING TO A DIAGONAL SEAM LINE THAT SLOPES FROM MIDPOINT, OVER THE KNEE, DOWN TO THE CENTRE BACK CALF. THEY FEATURE A LEATHER UPPER THAT FLARES DOWN THE LOWER LEG, CURVING INTO THE BACK HEEL AND POINTING AT THE TOE. INSIDE THEY HAVE A 12CM CONCEALED WEDGE (6,5CM RISE) AND A THICK FRONT PLATFORM. THIS VERSION FEATURES THREE SNAPS ON FRONT, BELOW KNEE, TO ATTACH OUR INTRICATE LEATHER CHAIN MAIL, SOLD SEPARATELY.\r\n\r\n \r\n\r\nTHIS IS A COMBINATION OF STRETCH LAMB LEATHER AND FULL GRAIN CALF LEATHER.\r\n\r\n \r\n\r\nTHIS MEDIUMWEIGHT FULL GRAIN CALF LEATHER HAS A FLAT AND MATTE SURFACE FINISH AND IS SPECIFICALLY TANNED FOR SHOES WITH AN ABRASION-RESISTANT FINISH.\r\n\r\n \r\n\r\nTHIS TANNERY IS LWG CERTIFIED WITH A BRONZE RATING.",
+            "material": "UPPER PART UPPER 65% LAMB LEATHER + 34% COTTON + 1% SPANDEX",
             "gallery": [
-                "https://images.unsplash.com/photo-1758702701300-372126112cb4?w=500",
-                "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500",
-                "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=500",
-                "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500"
+                "/assets/products/gallery_68f885bb5d3b7.jpg",
+                "/assets/products/gallery_68f885bb5d809.jpg",
+                "/assets/products/gallery_68f885bb5db05.jpg",
+                "/assets/products/gallery_68f885bb5dec9.jpg"
             ]
         },
         {
             "id": 105,
-            "name": "Premium Leather Boots",
-            "price": 4500000,
-            "originalPrice": 4500000,
-            "image": "https://images.unsplash.com/photo-1652474590303-b4d72bf9f61a?w=1200",
+            "name": "FACTORY BOOTS IN BROWN NUBUCK",
+            "price": 150000000,
+            "originalPrice": 150000000,
+            "image": "/assets/products/product_68f88611e3f29.jpg",
             "category": "accessories",
             "discount": 0,
             "type": "Shoes",
-            "colors": ["Brown", "Black"],
-            "sizes": ["37", "38", "39", "40", "41", "42", "43"],
-            "description": "Handcrafted leather boots with exceptional durability. Classic design.",
-            "material": "Full-grain Leather, Leather sole",
+            "colors": [
+                "Brown",
+                "Black"
+            ],
+            "sizes": [
+                "37",
+                "38",
+                "39",
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "description": "THESE FACTORY BOOTS ARE MID-CALF HEIGHT. THEY HAVE A TOPSTITCHED SEAM ARCING OVER THE FRONT FOOT WITH STITCHING RUNNING OVER THE ANTERIOR ANKLE. THEY FEATURE AN ANGULAR HEEL COUNTER AND A BACK LOOP PULL TAB AND HAVE 14CM HIGH SHARK-TOOTH SOLE UNDERNEATH AND AT FRONT AND HAVE A SLANTING HEEL AND INCLINED TOE PLATFORM.\r\n\r\n \r\n\r\nTHIS HEAVYWEIGHT BULL LEATHER HAS A BRUSHED NUBUCK FINISH AND WAXY HANDFEEL. BECAUSE THIS SKIN IS NAKED, NOT FINISHED USING ANY PIGMENTS COVERING THE SKIN, NATURAL MARKINGS AND SHADINGS ARE VISIBLE WHICH MAKES EACH SKIN AND PRODUCT UNIQUE.",
+            "material": "100% LAMB LEATHER",
             "gallery": [
-                "https://images.unsplash.com/photo-1652474590303-b4d72bf9f61a?w=500",
-                "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=500",
-                "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=500",
-                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500"
+                "/assets/products/gallery_68f88611e4add.jpg",
+                "/assets/products/gallery_68f88611e4f66.jpg",
+                "/assets/products/gallery_68f88611e52d4.jpg",
+                "/assets/products/gallery_68f88611e56ae.jpg"
             ]
         },
         {
             "id": 106,
-            "name": "Canvas Sneakers",
-            "price": 1800000,
-            "originalPrice": 2250000,
-            "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=1200",
+            "name": "TIED TACO KISS IN WASHED CALF LEATHER",
+            "price": 180000000,
+            "originalPrice": 225000000,
+            "image": "/assets/products/product_68f886772c238.jpg",
             "category": "accessories",
             "discount": 20,
             "type": "Shoes",
-            "colors": ["White", "Black", "Grey"],
-            "sizes": ["36", "37", "38", "39", "40", "41", "42"],
-            "description": "Casual canvas sneakers. Everyday comfort.",
+            "colors": [
+                "White",
+                "Black",
+                "Grey"
+            ],
+            "sizes": [
+                "36",
+                "37",
+                "38",
+                "39",
+                "40",
+                "41",
+                "42"
+            ],
+            "description": "THESE TIED TACO KISS ARE A SHORTER, DEFLATED, VERSION OF OUR STRAYTUKAY COLLABORATION BOOTS. THEY ARE ABOVE ANKLE HEIGHT. THEY FEATURE A LEATHER UPPER THAT FLARES DOWN FROM ABOVE ANKLE AND IS TIED WITH LEATHER STRAPS AROUND THE ANKLE, CREATING A SLIGHT DRAPE. IT THEN CURVES INTO THE BACK HEEL AND POINTS AT THE TOE. INSIDE THEY HAVE A 12CM CONCEALED WEDGE (4,5CM RISE) AND A THICK FRONT PLATFORM (7,5CM).\r\n\r\n \r\n\r\nTHIS HEAVYWEIGHT COW LEATHER IS VEG TANNED AND FINISHED USING NATURAL WAXES. A FINAL WASH GIVES THIS LEATHER ITS SOFTNESS AND BRINGS OUT THE NATURAL GRAIN TEXTURE OF EACH SKIN. BECAUSE THIS SKIN IS NAKED, NOT FINISHED USING ANY PIGMENTS COVERING THE SKIN, NATURAL MARKINGS AND SHADINGS ARE VISIBLE WHICH MAKES EACH SKIN AND PRODUCT UNIQUE.",
             "material": "Canvas, Rubber sole",
             "gallery": [
-                "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500",
-                "https://images.unsplash.com/photo-1758702701300-372126112cb4?w=500",
-                "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=500",
-                "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500"
+                "/assets/products/gallery_68f886772ce93.jpg",
+                "/assets/products/gallery_68f8867733abf.jpg",
+                "/assets/products/gallery_68f8867733eb7.jpg",
+                "/assets/products/gallery_68f88677341e9.jpg"
             ]
         },
         {
             "id": 107,
-            "name": "Classic Stiletto Heels",
-            "price": 3200000,
-            "originalPrice": 3200000,
-            "image": "https://images.unsplash.com/photo-1670607231621-c00fd76d2387?w=1200",
+            "name": "BUMBAG IN BLACK SOFT BUFFALO",
+            "price": 60000000,
+            "originalPrice": 60000000,
+            "image": "/assets/products/product_68f8854b4bbf4.jpg",
             "category": "accessories",
             "discount": 0,
-            "type": "High-Heels",
-            "colors": ["Black", "Nude", "Red"],
-            "sizes": ["35", "36", "37", "38", "39", "40"],
-            "description": "Elegant stiletto heels. Power and femininity.",
-            "material": "Patent Leather, Leather sole",
+            "type": "Bag",
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "One Size"
+            ],
+            "description": "THIS BUMBAG IS A LARGE BEVEL SHAPED FANNY PACK WITH ONE FRONT, DOUBLE ZIPPERED POCKET AND A SECOND ZIP POCKET ON BACK WITH SIGNATURE U-SHAPED STITCHING DETAIL VISIBLE ON THE BACK. IT FEATURES AN ADJUSTABLE COTTON WEBBING STRAP WITH A PALLADIUM TONE BRASS SNAP HOOK, SIDE RIVETS AND METAL D-RING DETAIL. THIS BUMBAG CAN BE WORN AROUND THE HIPS OR ACROSS THE BODY.\r\n\r\n \r\n\r\nTHIS MEDIUMWEIGHT LEATHER IS MADE FROM ITALIAN BUFALO HIDES AND FINISHED USING ONLY ANALINE TO KEEP THE LEATHER AS NATURAL AS POSSIBLE. THE GRAINY TEXTURE IS ACHIEVED BY TUMBLING THE SKINS MULTIPLE TIMES.",
+            "material": "100% CALF LEATHER",
             "gallery": [
-                "https://images.unsplash.com/photo-1670607231621-c00fd76d2387?w=500",
-                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500",
-                "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=500",
-                "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=500"
-            ]
-        },
-        {
-            "id": 108,
-            "name": "Block Heel Pumps",
-            "price": 2800000,
-            "originalPrice": 2800000,
-            "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=1200",
-            "category": "accessories",
-            "discount": 0,
-            "type": "High-Heels",
-            "colors": ["Black", "Navy", "Burgundy"],
-            "sizes": ["35", "36", "37", "38", "39", "40"],
-            "description": "Comfortable block heel pumps. All-day elegance.",
-            "material": "Suede, Leather sole",
-            "gallery": [
-                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500",
-                "https://images.unsplash.com/photo-1670607231621-c00fd76d2387?w=500",
-                "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=500",
-                "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=500"
+                "/assets/products/gallery_68f8854b4cade.jpg",
+                "/assets/products/gallery_68f8854b4cf68.jpg",
+                "/assets/products/gallery_68f8854b4d2d1.jpg",
+                "/assets/products/gallery_68f8854b4d65a.jpg"
             ]
         },
         {
             "id": 109,
-            "name": "Strappy Sandal Heels",
-            "price": 2560000,
-            "originalPrice": 3200000,
-            "image": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=1200",
+            "name": "MEGA BUMPER LUNAR IN CURLY SHEARLING",
+            "price": 256000000,
+            "originalPrice": 320000000,
+            "image": "/assets/products/product_68f886ef30b1b.jpg",
             "category": "accessories",
             "discount": 20,
-            "type": "High-Heels",
-            "colors": ["Gold", "Silver", "Black"],
-            "sizes": ["35", "36", "37", "38", "39", "40"],
-            "description": "Glamorous strappy heels. Evening perfection.",
-            "material": "Metallic Leather, Leather sole",
+            "type": "Shoes",
+            "colors": [
+                "Gold",
+                "Silver",
+                "Black"
+            ],
+            "sizes": [
+                "35",
+                "36",
+                "37",
+                "38",
+                "39",
+                "40"
+            ],
+            "description": "THESE MEGA BUMPER LUNAR ARE ABOVE-ANKLE HEIGHT. THEY HAVE A SOFT PADDED PULL ON BOOT UPPER AND DOUBLE HEIGHT, SHARK-TOOTHED MEGA BUMPER SOLES.\r\n\r\n \r\n\r\nTHIS HEAVYWEIGHT SHEARLING LAMB LEATHER HAS A WAXY NAPPA FINISH AND A SOFT NATURAL FUR.\r\n\r\n \r\n\r\nTANNED IN THE TUSCANY AREA OF ITALY, THESE SHEARLING MERINO HIDES ARE OF SPANISH ORIGIN, THE UNIQUE THICK FUR OF THESE ANIMALS MAKE THEM PERFECT FOR SHEARLING. BECAUSE THE HAIR IS NATURAL, THERE WILL BE VARIATIONS IN HAIR LENGTH AND TEXTURE, MAKING EACH PIECE UNIQUE.",
+            "material": "100% LAMB SHEARLING REAL FUR",
             "gallery": [
-                "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=500",
-                "https://images.unsplash.com/photo-1670607231621-c00fd76d2387?w=500",
-                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500",
-                "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=500"
+                "/assets/products/gallery_68f886ef316c2.jpg",
+                "/assets/products/gallery_68f886ef31bf4.jpg",
+                "/assets/products/gallery_68f886ef32187.jpg",
+                "/assets/products/gallery_68f886ef32614.jpg"
+            ]
+        },
+        {
+            "id": 110,
+            "name": "MELANGE GREY FELPA JERSEY",
+            "price": 5000000,
+            "originalPrice": 5000000,
+            "image": "/assets/products/product_68f877e4c2265.jpg",
+            "category": "men",
+            "discount": 0,
+            "type": "T-Shirt",
+            "colors": [
+                "White",
+                "Black",
+                "Grey"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "description": "THIS TOMMY T IS BELOW HIP LENGTH WITH A JUMBO OVERSIZED FIT. IT HAS WIDE, SHORT SLEEVES WITH A DROPPED ARMHOLE AND A RIBBED CREWNECK. IT FEATURES SIGNATURE FRONT LEVEL SHOULDER SEAMS AND A CENTRE BACK SEAM. \r\n\r\n \r\n\r\nTHIS HEAVYWEIGHT COTTON AND POLYESTER BLEND MELANGE JERSEY HAS A SOFT HANDFEEL.",
+            "material": "84% COTTON + 16% POLYESTER",
+            "gallery": [
+                "/assets/products/gallery_68f877e4c2e77.jpg",
+                "/assets/products/gallery_68f877e4c9695.jpg",
+                "/assets/products/gallery_68f877e4c9a23.jpg",
+                "/assets/products/gallery_68f877e4c9e51.jpg"
             ]
         }
     ]

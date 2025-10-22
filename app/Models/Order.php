@@ -56,6 +56,7 @@ class Order extends Model
         'status',
         'payment_method',
         'total',
+        'total_amount',
         'shipping_fee',
     ];
 
@@ -66,7 +67,10 @@ class Order extends Model
 
     public function updateTotal()
     {
-        $this->total = $this->items()->sum('subtotal');
+        $sum = $this->items()->sum('subtotal');
+        // store both integer total (legacy) and decimal total_amount
+        $this->total = $sum;
+        $this->total_amount = $sum;
         $this->save();
     }
 
@@ -150,6 +154,16 @@ class Order extends Model
     public function getTotalAmountAttribute($value)
     {
         return $value ?? $this->total;
+    }
+
+    /**
+     * Accessor: provide subtotal for the order (sum of order_items.subtotal)
+     * Some views reference $order->subtotal — compute it dynamically to ensure it's available.
+     */
+    public function getSubtotalAttribute()
+    {
+        // use DB sum for accuracy and to avoid loading all items when not eager-loaded
+        return $this->items()->sum('subtotal');
     }
 
     /**
