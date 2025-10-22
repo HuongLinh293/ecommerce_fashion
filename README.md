@@ -3,10 +3,11 @@
 Small guide to clone and run this repository locally.
 
 Prerequisites
-- PHP 8.1+ (this project used PHP 8.2)
-- Composer
-- Node.js + npm (for assets)
-- MySQL or compatible database
+
+-   PHP 8.1+ (this project used PHP 8.2)
+-   Composer
+-   Node.js + npm (for assets)
+-   MySQL or compatible database
 
 Quickstart (Windows / PowerShell)
 
@@ -59,14 +60,17 @@ php artisan serve
 ```
 
 Notes
-- Do NOT commit `.env` (it's in .gitignore). Keep secrets out of git.
-- `vendor/` and `node_modules/` are ignored and should not be pushed.
-- If you use ngrok or webhooks (payments), update `VNPAY_RETURN_URL` and other keys in `.env`.
+
+-   Do NOT commit `.env` (it's in .gitignore). Keep secrets out of git.
+-   `vendor/` and `node_modules/` are ignored and should not be pushed.
+-   If you use ngrok or webhooks (payments), update `VNPAY_RETURN_URL` and other keys in `.env`.
 
 If you want, I can:
-- prepare `.env.example` automatically from your current `.env` and scrub secrets (performed),
-- add a `setup.sh` or `Makefile` for easier setup, or
-- create a short GitHub Actions workflow to run tests on push.
+
+-   prepare `.env.example` automatically from your current `.env` and scrub secrets (performed),
+-   add a `setup.sh` or `Makefile` for easier setup, or
+-   create a short GitHub Actions workflow to run tests on push.
+
 # 🛍️ Ecommerce Fashion
 
 > Một dự án thương mại điện tử xây dựng bằng **Laravel** — hỗ trợ quản lý sản phẩm, đơn hàng, khách hàng, và trang quản trị.
@@ -81,28 +85,30 @@ If you want, I can:
 
 ## ✨ Tính năng chính
 
-- 🧍 Quản lý khách hàng, đăng ký/đăng nhập  
-- 🛒 Giỏ hàng & đặt hàng theo thời gian thực  
-- 📦 Quản lý sản phẩm (CRUD)  
-- 📊 Dashboard thống kê doanh thu, đơn hàng  
-- 🔐 Phân quyền (Admin & User)  
-- 📱 Giao diện responsive, thân thiện với người dùng
+-   🧍 Quản lý khách hàng, đăng ký/đăng nhập
+-   🛒 Giỏ hàng & đặt hàng theo thời gian thực
+-   📦 Quản lý sản phẩm (CRUD)
+-   📊 Dashboard thống kê doanh thu, đơn hàng
+-   🔐 Phân quyền (Admin & User)
+-   📱 Giao diện responsive, thân thiện với người dùng
 
 ---
 
 ## 🧰 Công nghệ sử dụng
 
-- **Backend:** Laravel 10+, PHP 8.2+  
-- **Database:** MySQL  
-- **Frontend:** Blade template, Tailwind CSS  
-- **Chart:** Chart.js / Recharts (trang thống kê)
+-   **Backend:** Laravel 10+, PHP 8.2+
+-   **Database:** MySQL
+-   **Frontend:** Blade template, Tailwind CSS
+-   **Chart:** Chart.js / Recharts (trang thống kê)
 
 ---
 
 ## 🚀 Cài đặt
 
 ### 1️⃣ Clone project
+
 ```bash
 git clone https://github.com/HuongLinh293/ecommerce_fashion.git
 cd ecommerce_fashion
- 
+
+```
